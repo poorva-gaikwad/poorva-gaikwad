@@ -1,4 +1,24 @@
-# 👩‍💻 Poorva Gaikwad
+# 👩‍💻 Poorva Gaikwad# 👋 Hi, I'm Poorva
+
+🎓 Diploma in Computer Engineering Student
+💻 Interested in Web Development, AI, and Machine Learning
+🌱 Learning and building projects one step at a time
+
+### 🛠️ Tech
+
+Python • Flask • TensorFlow • PostgreSQL • OpenCV
+
+### 📌 Project
+
+🔬 Pneumonia Detection App – AI-powered chest X-ray analysis using Flask and TensorFlow
+
+### 🌐 Connect
+
+* LinkedIn: linkedin.com/in/poorva-gaikwad-0a0119404
+* GitHub: github.com/poorva-gaikwad
+
+✨ *Learning. Building. Growing.*
+
 
 🎓 Diploma in Computer Engineering Student  
 💻 Passionate about **Web Development** and **Artificial Intelligence**  
