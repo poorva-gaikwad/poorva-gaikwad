@@ -1,9 +1,9 @@
 # 👩‍💻 Poorva Gaikwad
 
-🎓 Computer Engineering Student
+🎓 Computer Engineering Student  
+💻 Web Development • AI • Machine Learning  
+🌱 Always learning, always building  
 
-💻 Web Development • AI • Machine Learning
+---
 
-🌱 Always learning, always building.
-
-✨ *Code. Learn. Repeat.*
+✨ *Code. Learn. Repeat.*  
